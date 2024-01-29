@@ -89,9 +89,11 @@ header{
     height: 50px;
     font-weight: 600;
     font-size: 18px;
-    color: #a5a5a5; 
-    border: none;
+    border-top: #383838;
+    border-left: #383838;
+    border-right: #383838;
 
+    
 }
 .line{
     width: 1000px;
