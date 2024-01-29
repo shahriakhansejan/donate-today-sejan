@@ -89,7 +89,14 @@ header{
     height: 50px;
     font-weight: 600;
     font-size: 18px;
-    color: #a5a5a5;    
+    color: #a5a5a5; 
+    border: none;
+
+}
+.line{
+    width: 1000px;
+    height: 5px;
+    color: #000000;
 }
 
 
@@ -121,6 +128,14 @@ header{
     text-align: left;
     
     
+}
+
+.sect-div1-icon{
+    padding-bottom: 12px;
+}
+
+.sect-div1-des-title{
+    padding-bottom: 7px;
 }
 .div1-element1{
     background-color: #edf5f6;
